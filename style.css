@@ -1,0 +1,98 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #E8DACC;
+}
+
+header {
+    background-color: #945737;
+    text-align: center;
+    height: 8rem;
+    padding: 8px 16px 8px 16px;
+}
+
+.section-1 {
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.livro1 {
+    margin: 6rem;
+    background-color: #6593A6;
+    border-radius: 16px;
+    text-align: center;
+}
+
+
+.livro2 {
+    margin: 6rem;
+    background-color: #6593A6;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.livro3 {
+    margin: 6rem;
+    background-color: #6593A6;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.section-2 {
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.livro4 {
+    margin: 6rem;
+    background-color: #6593A6;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.livro5 {
+    margin: 6rem;
+    background-color: #6593A6;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.livro6 {
+    margin: 6rem;
+    background-color: #6593A6;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.section-3 {
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.livro7 {
+    margin: 6rem;
+    background-color: #6593A6;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.livro8 {
+    margin: 6rem;
+    background-color: #6593A6;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.livro9 {
+    margin: 6rem;
+    background-color: #6593A6;
+    border-radius: 16px;
+    text-align: center;
+}
