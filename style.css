@@ -19,7 +19,7 @@ header {
 }
 
 .section-1 {
-    display: flex;
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
@@ -46,7 +46,7 @@ header {
 }
 
 .section-2 {
-    display: flex;
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
@@ -72,7 +72,7 @@ header {
 }
 
 .section-3 {
-    display: flex;
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
